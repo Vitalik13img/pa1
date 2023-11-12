@@ -1,0 +1,21 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    background-color: #1D7373;
+    padding: 10px; background:;text-align: center
+}
+
+img {
+    height: 200px;margin: 25px;border-radius: 25px;border-right: 25px;margin-left: 200px;
+    
+}
+
+p{
+    font-size: 20px; background-color: #FF9640;color: }
+    
+a {background-color: #FF8C00;color: #240672	;text-decoration: none;font-size: 17px;
+padding: 10px 15px;border-radius: 25px;
+}
+body{background-color: #34D0B6	}
